@@ -70,7 +70,7 @@ This section outlines the frameworks and libraries that are leveraged in the pro
 
 See [Frameworks](/.doc/frameworks.md)
 
-<!-- 
+
 ## API Structure
 This section includes links to the detailed documentation for the different API resources:
 - [API General](./docs/general-api.md)
@@ -78,7 +78,13 @@ This section includes links to the detailed documentation for the different API 
 - [Carts API](/.doc/carts-api.md)
 - [Users API](/.doc/users-api.md)
 - [Auth API](/.doc/auth-api.md)
--->
+- [Sale API](/.doc/sale-api.md)
+
+## How Start Application
+This section show starte application
+- [How Run](./docs/how-run.md)
+
+
 
 ## Project Structure
 This section describes the overall structure and organization of the project files and directories. 
