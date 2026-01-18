@@ -73,7 +73,7 @@ See [Frameworks](/.doc/frameworks.md)
 
 ## API Structure
 This section includes links to the detailed documentation for the different API resources:
-- [API General](./docs/general-api.md)
+- [API General](./doc/general-api.md)
 - [Products API](/.doc/products-api.md)
 - [Carts API](/.doc/carts-api.md)
 - [Users API](/.doc/users-api.md)
@@ -82,7 +82,7 @@ This section includes links to the detailed documentation for the different API 
 
 ## How Start Application
 This section show starte application
-- [How Run](/.docs/how-run.md)
+- [How Run](/.doc/how-run.md)
 
 
 
