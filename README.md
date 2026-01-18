@@ -82,7 +82,7 @@ This section includes links to the detailed documentation for the different API 
 
 ## How Start Application
 This section show starte application
-- [How Run](./docs/how-run.md)
+- [How Run](/.docs/how-run.md)
 
 
 
